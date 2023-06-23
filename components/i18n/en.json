@@ -1,0 +1,56 @@
+{
+  "common": {
+    "about": "about",
+    "news": "news",
+    "get-in-touch": "waitlist",
+    "hero_title": "The first ERP/URP web3 software solution",
+    "hero_subtitle": "Building an intuitive user experience on decentralized and centralized solutions with blockchain integration.",
+
+    "body_title": "These are the <span>mains definitioins</span> of our <span>erp/urp</span> system",
+
+    "item_01_title": "ERP",
+    "item_01_text": "ERP stands for <span>Enterprice Resource Planning,</span> where <span>companies</span> can <span>manage</span> their <span>operatory</span> such us accounts payable/receivable, taxes, tresury, assets, among others. And in our case with <span>blockchain</span> integration or not.",
+    
+    "item_02_title": "URP",
+    "item_02_text": "URP stands for User <span>Resource Planning</span>, where <span>users</span> can <span>govern</span> their digital assets, multi wallet automatic reconciliation, basic accountancy, cost and net worth... among others.",
+
+    "item_03_title": "Multi General Ledger Accountancy",
+    "item_03_text": "You will be able to extend your main <span>Ledger</span> to others, and have <span>maximum control</span> over your <span>company decisions.</span>",
+
+    "item_04_title": "Multi user/module integration",
+    "item_04_text": "With multi user role management you can make your <span>company more agile</span> and keep control of the <span>sub-modules</span>. And with <span>multi-module</span> integration you can interact with different parts of your organization and <span>keep track</span> of the procceses, <span>accountancy and costs.</span>",
+
+    "item_05_title": "Exchange API Management",
+    "item_05_text": "You can have <span>knowldge</span> of your <span>CEX crypto operations</span> on your main crypto Exchanges and <span>integrate/reconcialiate</span> them automatically on your <span>acountancy.</span>",
+
+    "item_06_title": "DAO management",
+    "item_06_text": "We offer a <span>reliable and simple system</span> so DAOs (Decentralized Autonomus Organizations) can <span>manage their governance process and operate financially decentralized</span> with the <span>tooling</span> and <span>infrastructure</span> we provide.",
+
+    "footer_title": "Our vision is to provide exceptional ERP/URP Web 3/2.5 solutions that seamlessly integrate with multiple blockchains, ensuring unparalleled efficiency and innovation.",
+    "footer-quote": "“Books should be closed each year, especially in partnership because frequent accounting makes for long friendship.” - Luca Pacioli",
+
+    "form_title": "Waitlist",
+    "form_subtitle": "Join the waitlist for our system's MVP launch in 2024 and receive the latest news.",
+    "form_name": "Name",
+    "form_email": "Email",
+    "form_company": "Company name",
+    "form_success": "We received your application successfully",
+    "form_error": "We had an error on your application",
+    "form_SendMessage": "Send"
+  },
+  "aboutPage": {
+    "title": "THIS IS THE TITLE"
+  },
+  "newsPage": {
+    "title": "THIS IS THE TITLE of NEWS"
+  },
+  "seo":{
+    "title": "Flubi | The first ERP/URP web3 software solution",
+    "description": "We are the first ERP/URP web3 software solution, building an intuitive user experience on decentralized and centralized solutions with blockchain integration.",
+    "keywords": "flubi, erp, urp, assets, ledger, integration, accountancy, costs, tokenized lease, tokenized assets, accounts payable, accounts receivable, treasury management, taxes, NFTs, wallet, liabilities, general ledger, web3, digital wallet, exchange",
+    "image": "https://www.flubi.co/assets/images/flubi-logo.png",
+    "author": "Flubi",
+    "twitterSite": "@flubi_co",
+    "twitterCreator": "@flubi_co"
+  }
+}

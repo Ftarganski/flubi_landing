@@ -1,0 +1,61 @@
+{
+  "common": {
+    "about": "acerca de",
+    "news": "noticias",
+    "get-in-touch": "lista de espera",
+    "hero_title": "la primera solucion de software ERP/URP web3",
+    "hero_subtitle": "Creando una experiencia de usuario intuitiva en soluciones descentralizadas y centralizadas con integración de blockchain.",
+
+    "body_title": "Estas son las <span>principales definiciones</span> de nuestro sistema <span>erp/urp</span>",
+   
+    "item_01_title": "ERP",
+    "item_01_text": "ERP son las siglas de <span>Planificación de Recursos Empresariales</span>, donde las <span>empresas</span> puedem <span>administrar</span> sus <span>operaciones, y recursos,</span> tales como cuentas por pagar/cobrar, impuestos, tesorería, activos, entre otros.Y en nuestro caso con integración <span>blockchain</span> o no.",
+    "item_02_title": "URP",
+    "item_02_text": "URP significa <span>Planificación de Recursos del Usuario</span>, donde <span>los usuarios</span> pueden <span>administrar</span> sus activos digitales, conciliación automática de sus múltiples carteras digitales, contabilidad básica, costo y patrimonio neto... entre otros.",
+
+    "item_03_title": "Contabilidad General Múltiple",
+    "item_03_text": "Podrás extender tu <span>libro de contabilidad</span> principal a otros, para tener el <span>máximo control</span> sobre las <span>decisiones de tu empresa.</span>",
+
+    "item_04_title": "Integración multiusuario/módulo",
+    "item_04_text": "Con la gestión de roles de múltiples usuarios, puede hacer que su <span>empresa sea más ágil</span> y mantener el control de los <span>submódulos</span>. Y con la integración de <span>múltiples módulos</span> puede interactuar con diferentes partes de su organización y <span>realizar un seguimiento</span> de los procesos, <span>la contabilidad y costos </span>, entre otros.",
+
+    "item_05_title": "Gestión API de Exchanges",
+    "item_05_text": "Podrás tener <span>visualización</span> de tus <span>operaciones criptográficas CEX</span> en los principales Exchange e <span>integrar/reconciliar</span> automáticamente <span>tus cuentas.</span>",
+
+    "item_06_title": "Manejo de DAO",
+    "item_06_text": "Ofrecemos un <span>sistema simple y confiable</span> para que las DAOs (Organizaciónes autónomas descentralizadas) puedan manejar sus <span>procesos de gobernanza y operar financieramente de forma descentralizada</span> con las <span>herramientas</span> e <span>infraestructura</span> que les brindamos.",
+
+    "footer_title": "Nuestra visión es proporcionar soluciones ERP/URP Web 3/2.5 excepcionales que se integren a la perfección con múltiples cadenas de bloques, lo que garantiza una eficiencia e innovación sin igual.",
+    "footer-quote": "“Los libros deben cerrarse cada año, especialmente en asociación porque la contabilidad frecuente contribuye a una larga amistad.” - Luca Pacioli",
+
+
+    "form_title": "Lista de espera",
+    "form_subtitle": "Unete a lista de espera para el lanzamiento de nuestro producto en 2024.",
+    "form_name": "Nombre",
+    "form_email": "Email",
+    "form_contactNumber": "Número de Contacto",
+    "form_message": "Ingrese su mensaje",
+    "form_SendMessage": "Enviar",
+    "form_company": "Nombre de Empresa",
+
+    "form_placeholder_name" : "Nombre / Nombre de Empresa",
+    "form_success": "Recibimos tu aplicación correctamente",
+    "form_error": "Hubo un error en tu aplicación"
+
+  },
+  "aboutPage": {
+    "title": "ESTE ES EL TITULO"
+  },
+  "newsPage": {
+    "title": "ESTE ES EL TITULO DE NOTICIAS"
+  },
+  "seo":{
+    "title": "Flubi | La primera solución de software ERP/URP web3",
+    "description": "Somos la primera solución de software ERP/URP web3, creando una experiencia de usuario intuitiva en soluciones descentralizadas y centralizadas con integración de blockchain.",
+    "keywords": "flubi, erp, urp, assets, tokenized lease, tokenized assets, accounts payable, accounts receivable, treasury management, taxes, NFTs, wallet, liabilities, general ledger, web3, digital wallet, exchange",
+    "image": "https://www.flubi.co/assets/images/flubi-logo.png",
+    "author": "Flubi",
+    "twitterSite": "@flubi_co",
+    "twitterCreator": "@flubi_co"
+  }
+}
